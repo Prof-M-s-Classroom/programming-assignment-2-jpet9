@@ -1,6 +1,23 @@
-1 | You wake up in a forest clearing. There are two paths. | 2 | 3
-2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | 7 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1
+1 | You arise from a long slumber after 100 years in a desolate cavern. Choose one of the two paths. | 2 | 3
+2 | You turn right and walk down the mountain path. | 4 | 5
+3 | You go straight forward and start to climb down from the mountain | 6 | 7
+4 | You see a goblin hiding in a bush go towards it to fight? | 8 | 9
+5 | You go for the chest laid out in the middle of the path. (There may be a goblin hiding nearby) | 9 | 10
+6 | You see a huge vulture while climbing down, should you attract its attention? | 11 | 12
+7 | Go down to the bottom ignoring the vulture | 13 | 14
+8 | You go in for a punch at the goblin as it seems hostile | -1 | -1
+9 | Open the chest | 15 | -1
+10 | You acquire the legendary scar which can kill enemies in one shot | 16 | -1
+11 | The vulture starts coming at you! You try to jump on it | 17 | 18
+12 | The vulture starts coming at you! You try and swing a punch at it | -1 | -1
+13 | You continue your path as the sun starts setting | 18 | -1
+14 | You encounter an inn on the side of the road, you decide to rest there | 19 | -1
+15 | You got leather armour! Now you feel more protected. You head over to a nearby village | 20 | 21
+16 | Start going off on a spree to kill all the enemies around | 22 | -1
+17 | Go over the ocean | -1 | -1
+18 | You end up at an oasis | 23 | -1
+19 | Villagers greet you and you go to sleep | -1 | -1
+20 | Greet the villagers and spend the rest of your life with the peaceful villagers | -1 | -1
+21 | Try stealing the village prize. | -1 | -1
+22 | You slay many enemies around the area but eventually fall to a demise by a red dragon. You still end up a legend for the peace you created around the land | -1 | -1
+23 | This is actually a healing oasis. It provides peace to the area. It is so comforting that you decide to live here the rest of your life | -1 | -1
