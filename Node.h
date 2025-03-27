@@ -9,6 +9,12 @@ public:
     Node* right;
 
     Node(T value) : data(value), left(nullptr), right(nullptr){ } // TODO: Implement constructor here
+
+    Node() {
+        data = T();
+        left = right = nullptr;
+    }
+
 };
 
 #endif // NODE_H
